@@ -4,7 +4,6 @@
 
 ## VPS 网络重装 Debian 12 脚本
 
-(#introduction)
 
 **暂不支持 Oracle Linux 作为原系统。创建新机器时请选择 Ubuntu 系统模板。**
 
