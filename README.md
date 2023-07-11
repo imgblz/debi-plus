@@ -2,6 +2,13 @@
 
 [General description in English ↓](#introduction)
 
+
+```
+curl -fLO https://raw.githubusercontents.com/imgblz/debi-plus/master/debiplus.sh && chmod a+rx debiplus.sh
+
+```
+
+
 ## VPS 网络重装 Debian 12 脚本
 
 
@@ -10,7 +17,10 @@
 下载脚本：
 
 ```
-curl -fLO https://raw.githubusercontent.com/bohanyang/debi/master/debi.sh && chmod a+rx debi.sh
+## 就是为了自己省事
+curl -fLO https://raw.githubusercontents.com/imgblz/debi-plus/master/debiplus.sh && chmod a+rx debiplus.sh
+
+sudo ./debiplus.sh 
 ```
 
 运行脚本：
